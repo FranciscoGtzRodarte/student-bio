@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;700;800;900&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.lesson {
+  background-color: rgb(107 116 231 / 22%);
+  padding: 50px;
+}
+
+.title {
+  color: rgb(84 109 255);
+}
+
+.lesson .title {
+  color: rgb(24, 155, 243);
+}
+
+#email {
+  background-color: rgb(71 178 242);
+}
+
+#github {
+  background-color: rgb(246 201 51);
+}
+
+#portfolio {
+  background-color: rgb(250 140 127);
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  padding: 15px;
+  color: rgb(57 65 114);
+}
+
+p {
+  padding-top: 20px;
+  width: 62%;
+  margin: 0 auto;
+  line-height: 1.5;
+}
